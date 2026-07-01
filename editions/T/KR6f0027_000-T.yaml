@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6f0027/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說須摩提菩薩經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0335.xml
+    old_id: T12n0335
+hash: sha256:152df20d1423b7a0cd43418c17f7716cc4364031f9337e38b7a7bebe4a90fc46
