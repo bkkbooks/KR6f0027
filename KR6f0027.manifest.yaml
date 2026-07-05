@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6f0027_000.yaml, hash: 'sha256:152df20d1423b7a0cd43418c17f7716cc4364031f9337e38b7a7bebe4a90fc46'}
-  - {seq: 1, filename: KR6f0027_001.yaml, hash: 'sha256:3b4509cd418eadac2266861443e9de80c231277828fc7bc341c9b9b6e078f04f'}
+  - {seq: 1, filename: KR6f0027_001.yaml, hash: 'sha256:a8a8b4a8b9bcccaf3e21ab5f9000b484a969af1ad9b262392a26a94b4bf22918'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6f0027_001.markers.yaml, hash: 'sha256:27893f67b50ac7b8bf0f5630dc5426633fca8d22e4a976c4b1921dfafa5402b1'}
+  - {seq: 0, role: markers, filename: assets/KR6f0027_000.markers.yaml, hash: 'sha256:1b4faca039273a2e171025a931eb89c73d814c1b44df4e4a7e9b144ea93d7df9'}
+  - {seq: 1, role: markers, filename: assets/KR6f0027_001.markers.yaml, hash: 'sha256:7e5f47bdb2b2574b6aafbf0e28734b666e90336b620593d8d40426b2a88b2c29'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 佛說須摩提菩薩經
   type: juan
   level: 1
-hash: sha256:3acef32f1598233ebede22438418b26776e53c14838c05ceea61c89768581c9b
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:fbd7777936ce1342c269107c129c122ed101cb81265100a8e81225846b0e8ad7
