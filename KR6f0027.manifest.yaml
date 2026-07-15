@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6f0027/v1
 canonical_location: https://kanripo.org/bkk/KR6f0027/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說須摩提菩薩經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6f0027_000.yaml, hash: 'sha256:152df20d1423b7a0cd43418c17f7716cc4364031f9337e38b7a7bebe4a90fc46'}
-  - {seq: 1, filename: KR6f0027_001.yaml, hash: 'sha256:a8a8b4a8b9bcccaf3e21ab5f9000b484a969af1ad9b262392a26a94b4bf22918'}
+  - {seq: 1, filename: KR6f0027_001.yaml, hash: 'sha256:fe77e427961eb3bdb31f498314935c46e142abb27acc9c7c5b78070fb4ff4c6e'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6f0027_000.markers.yaml, hash: 'sha256:1b4faca039273a2e171025a931eb89c73d814c1b44df4e4a7e9b144ea93d7df9'}
-  - {seq: 1, role: markers, filename: assets/KR6f0027_001.markers.yaml, hash: 'sha256:7e5f47bdb2b2574b6aafbf0e28734b666e90336b620593d8d40426b2a88b2c29'}
+  - {seq: 1, role: markers, filename: assets/KR6f0027_001.markers.yaml, hash: 'sha256:013a2e0a9eea41f9873c19dae6cc254fba489f13cc7a32ea270404486ff0a8a8'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 佛說須摩提菩薩經
   type: juan
   level: 1
-hash: sha256:fbd7777936ce1342c269107c129c122ed101cb81265100a8e81225846b0e8ad7
+hash: sha256:16990b3b58436ff8a215f1ab1ba5afcb1555d1c4cbf597f90087714ae1444206
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
